@@ -11,5 +11,11 @@ public class Main {
         System.out.println(ArrayWorker.isDoubleZerosTogether(firstArray.arrayList));
     }
 
+    // write method for printind numbers from 1 to 100
+    public static void printNumbers() {
+        for (int i = 1; i <= 100; i++) {
+            System.out.println(i);
+        }
+    }
 
 }
