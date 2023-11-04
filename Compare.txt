@@ -1,0 +1,3 @@
+Files present in 'Downloaded images - big' and absent in 'Downloaded images - small':
+
+Files present in 'Downloaded images - small' and absent in 'Downloaded images - big':
