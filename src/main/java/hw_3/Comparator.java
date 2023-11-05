@@ -1,4 +1,4 @@
-package HW_3;
+package hw_3;
 
 public class Comparator implements java.util.Comparator<Employee> {
     public int compare(Employee o1, Employee o2) {

@@ -5,8 +5,6 @@ import HW_1.org.example.controller.FileWorker;
 
 import java.util.Scanner;
 
-import static HW_1.org.example.controller.DateTimePrinter.printCurrentDateTime;
-
 public class FileMenu {
     public static void main(String[] args) {
         displayMenu();
